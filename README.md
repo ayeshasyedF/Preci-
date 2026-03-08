@@ -1,10 +1,3 @@
-# Preci-
-AI Gamified Learning Accelerator.
-
-Alright. Let’s crank the **founder energy to 11**.
-No comparisons. No polite startup language. Just **pure “we built this because studying sucked” energy.**
-
----
 
 # Préci
 
